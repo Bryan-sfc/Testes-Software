@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marcos Vinicius\\Desktop\\xUnit\\Reservas.Api\\",
+  "WorkspaceRootPath": "C:\\Users\\55890867873\\Desktop\\Testes Software\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{584CBBAA-8749-4DAB-831E-DB5F95A15DBA}|Reservas.Api\\Reservas.Api.csproj|c:\\users\\marcos vinicius\\desktop\\xunit\\reservas.api\\reservas.api\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{584CBBAA-8749-4DAB-831E-DB5F95A15DBA}|Reservas.Api\\Reservas.Api.csproj|solutionrelative:reservas.api\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B364903-2817-474A-89E5-51F142965DDE}|Reservas.Testes\\Reservas.Testes.csproj|c:\\users\\55890867873\\desktop\\testes software\\reservas.testes\\controllers\\reservascontrollerteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B364903-2817-474A-89E5-51F142965DDE}|Reservas.Testes\\Reservas.Testes.csproj|solutionrelative:reservas.testes\\controllers\\reservascontrollerteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{584CBBAA-8749-4DAB-831E-DB5F95A15DBA}|Reservas.Api\\Reservas.Api.csproj|c:\\users\\marcos vinicius\\desktop\\xunit\\reservas.api\\reservas.api\\repositories\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{584CBBAA-8749-4DAB-831E-DB5F95A15DBA}|Reservas.Api\\Reservas.Api.csproj|solutionrelative:reservas.api\\repositories\\reservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B364903-2817-474A-89E5-51F142965DDE}|Reservas.Testes\\Reservas.Testes.csproj|c:\\users\\55890867873\\desktop\\testes software\\reservas.testes\\mockdata\\reservasmockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B364903-2817-474A-89E5-51F142965DDE}|Reservas.Testes\\Reservas.Testes.csproj|solutionrelative:reservas.testes\\mockdata\\reservasmockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{584CBBAA-8749-4DAB-831E-DB5F95A15DBA}|Reservas.Api\\Reservas.Api.csproj|c:\\users\\marcos vinicius\\desktop\\xunit\\reservas.api\\reservas.api\\interfaces\\ireservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{584CBBAA-8749-4DAB-831E-DB5F95A15DBA}|Reservas.Api\\Reservas.Api.csproj|solutionrelative:reservas.api\\interfaces\\ireservarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{584CBBAA-8749-4DAB-831E-DB5F95A15DBA}|Reservas.Api\\Reservas.Api.csproj|c:\\users\\marcos vinicius\\desktop\\xunit\\reservas.api\\reservas.api\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{584CBBAA-8749-4DAB-831E-DB5F95A15DBA}|Reservas.Api\\Reservas.Api.csproj|solutionrelative:reservas.api\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B364903-2817-474A-89E5-51F142965DDE}|Reservas.Testes\\Reservas.Testes.csproj|c:\\users\\55890867873\\desktop\\testes software\\reservas.testes\\reservas.testes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B364903-2817-474A-89E5-51F142965DDE}|Reservas.Testes\\Reservas.Testes.csproj|solutionrelative:reservas.testes\\reservas.testes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReservasController.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\xUnit\\Reservas.Api\\Reservas.Api\\Controllers\\ReservasController.cs",
-              "RelativeDocumentMoniker": "Reservas.Api\\Controllers\\ReservasController.cs",
-              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\xUnit\\Reservas.Api\\Reservas.Api\\Controllers\\ReservasController.cs",
-              "RelativeToolTip": "Reservas.Api\\Controllers\\ReservasController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAA/wAsAAAAFAAAAAAAAAA==",
+              "Title": "ReservasControllerTeste.cs",
+              "DocumentMoniker": "C:\\Users\\55890867873\\Desktop\\Testes Software\\Reservas.Testes\\Controllers\\ReservasControllerTeste.cs",
+              "RelativeDocumentMoniker": "Reservas.Testes\\Controllers\\ReservasControllerTeste.cs",
+              "ToolTip": "C:\\Users\\55890867873\\Desktop\\Testes Software\\Reservas.Testes\\Controllers\\ReservasControllerTeste.cs",
+              "RelativeToolTip": "Reservas.Testes\\Controllers\\ReservasControllerTeste.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAwwJUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:02:26.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReservaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\xUnit\\Reservas.Api\\Reservas.Api\\Repositories\\ReservaRepository.cs",
-              "RelativeDocumentMoniker": "Reservas.Api\\Repositories\\ReservaRepository.cs",
-              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\xUnit\\Reservas.Api\\Reservas.Api\\Repositories\\ReservaRepository.cs",
-              "RelativeToolTip": "Reservas.Api\\Repositories\\ReservaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:01:31.903Z",
+              "WhenOpened": "2025-07-31T12:33:56.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IReservaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\xUnit\\Reservas.Api\\Reservas.Api\\Interfaces\\IReservaRepository.cs",
-              "RelativeDocumentMoniker": "Reservas.Api\\Interfaces\\IReservaRepository.cs",
-              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\xUnit\\Reservas.Api\\Reservas.Api\\Interfaces\\IReservaRepository.cs",
-              "RelativeToolTip": "Reservas.Api\\Interfaces\\IReservaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:00:46.799Z",
+              "Title": "Reservas.Testes",
+              "DocumentMoniker": "C:\\Users\\55890867873\\Desktop\\Testes Software\\Reservas.Testes\\Reservas.Testes.csproj",
+              "RelativeDocumentMoniker": "Reservas.Testes\\Reservas.Testes.csproj",
+              "ToolTip": "C:\\Users\\55890867873\\Desktop\\Testes Software\\Reservas.Testes\\Reservas.Testes.csproj",
+              "RelativeToolTip": "Reservas.Testes\\Reservas.Testes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T12:23:47.943Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Reserva.cs",
-              "DocumentMoniker": "C:\\Users\\Marcos Vinicius\\Desktop\\xUnit\\Reservas.Api\\Reservas.Api\\Models\\Reserva.cs",
-              "RelativeDocumentMoniker": "Reservas.Api\\Models\\Reserva.cs",
-              "ToolTip": "C:\\Users\\Marcos Vinicius\\Desktop\\xUnit\\Reservas.Api\\Reservas.Api\\Models\\Reserva.cs",
-              "RelativeToolTip": "Reservas.Api\\Models\\Reserva.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ReservasMockData.cs",
+              "DocumentMoniker": "C:\\Users\\55890867873\\Desktop\\Testes Software\\Reservas.Testes\\MockData\\ReservasMockData.cs",
+              "RelativeDocumentMoniker": "Reservas.Testes\\MockData\\ReservasMockData.cs",
+              "ToolTip": "C:\\Users\\55890867873\\Desktop\\Testes Software\\Reservas.Testes\\MockData\\ReservasMockData.cs",
+              "RelativeToolTip": "Reservas.Testes\\MockData\\ReservasMockData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:00:02.873Z",
+              "WhenOpened": "2025-07-31T12:22:22.827Z",
               "EditorCaption": ""
             }
           ]
